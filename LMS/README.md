@@ -11,7 +11,7 @@
   <p align="center">
     A comprehensive solution to manage library operations efficiently.
     <br />
-    <a href="https://github.com/Chamaracperera/LMS.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Chanuli-Sandanayake/Library_System.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Chamaracperera/LMS.git">View Demo</a>
