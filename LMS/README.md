@@ -83,7 +83,7 @@ _Below are the steps to set up the project._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Chamaracperera/LMS.git
+   git clone https://github.com/Chanuli-Sandanayake/Library_System.git
    ```
 2. Copy the project to the `htdocs` folder of XAMPP
 3. Start Apache and MySQL from the XAMPP control panel
@@ -106,7 +106,7 @@ _Below are the steps to set up the project._
 
 Chamara Perera - [@twitter](https://www.linkedin.com/in/chamara-perera-b832762b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-Project Link: [https://github.com/Chamaracperera/LMS.git](https://github.com/Chamaracperera/LMS.git)
+Project Link: [https://github.com/Chanuli-Sandanayake/Library_System.git](https://github.com/Chanuli-Sandanayake/Library_System.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
