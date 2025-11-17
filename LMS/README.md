@@ -129,10 +129,10 @@ This project is made possible through the collaboration of the following team me
 
 * **Feature 1 – Login and User Registration**
   * [Chamara Perera ](https://github.com/Chamaracperera)
-* **Feature 2 – Books Registration**
+* **Feature 2 – Library Member Registration (by library staff)**
   * [Chanuli Sandanayake](https://github.com/Chanuli-Sandanayake)
   * [Sathsarani Geethamali](https://github.com/Sathsarani2002)
-* **Feature 3 – Library Member Registration (by library staff)**
+* **Feature 3 – Books Registration**
   * [Avindi Navodya ](https://github.com/AvindiNavodya)
   * [Chamathya Sepiyumi](https://github.com/Du2002)
 * **Feature 4 – Book Borrow Details**
